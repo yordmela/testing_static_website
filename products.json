@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "name": "T-Shirt",
+      "image": "images/tshirt.jpg",
+      "price": "$20",
+      "contact": "owner@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "image": "images/jeans.jpg",
+      "price": "$40",
+      "contact": "owner@example.com"
+    }
+  ]
